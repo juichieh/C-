@@ -1,0 +1,30 @@
+[
+  {
+    "id": "chancellor_toad",
+    "name": "托德宰相",
+    "faction": "mushroom_kingdom",
+    "memory": [],
+    "relations": {"koopa_legion": -60, "yoshi_agri_zone": 40, "dk_tribe": -10}
+  },
+  {
+    "id": "general_koopa",
+    "name": "庫巴將軍",
+    "faction": "koopa_legion",
+    "memory": [],
+    "relations": {"mushroom_kingdom": -70, "yoshi_agri_zone": -20, "dk_tribe": 15}
+  },
+  {
+    "id": "elder_yoshi",
+    "name": "耀西長老",
+    "faction": "yoshi_agri_zone",
+    "memory": [],
+    "relations": {"mushroom_kingdom": 45, "koopa_legion": -35, "dk_tribe": 5}
+  },
+  {
+    "id": "dk_envoy",
+    "name": "大金剛使者",
+    "faction": "dk_tribe",
+    "memory": [],
+    "relations": {"mushroom_kingdom": -5, "koopa_legion": 10, "yoshi_agri_zone": 0}
+  }
+]

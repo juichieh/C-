@@ -1,0 +1,9 @@
+{
+  "coins": 120,
+  "food": 100,
+  "wood": 80,
+  "bananas": 90,
+  "military": 60,
+  "town_stability": 70,
+  "banana_price": 10
+}
