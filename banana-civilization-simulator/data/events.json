@@ -1,0 +1,32 @@
+[
+  {
+    "id": "koopa_sabotage_banana_fields",
+    "title": "🐢 庫巴軍破壞香蕉田",
+    "effects": {"bananas": -8, "food": -4, "military": 2, "town_stability": -2},
+    "tags": ["koopa", "conflict", "banana"]
+  },
+  {
+    "id": "yoshi_harvest_boom",
+    "title": "🦖 耀西農業大豐收",
+    "effects": {"food": 12, "coins": 4, "town_stability": 1},
+    "tags": ["yoshi", "agriculture", "aid"]
+  },
+  {
+    "id": "dk_demands_tribute",
+    "title": "🦍 大金剛要求香蕉進貢",
+    "effects": {"bananas": -6, "military": -1, "town_stability": -1},
+    "tags": ["dk", "tribute", "banana"]
+  },
+  {
+    "id": "kingdom_popularity_drop",
+    "title": "🍄 蘑菇王國民意下降",
+    "effects": {"town_stability": -3, "coins": -2},
+    "tags": ["kingdom", "politics"]
+  },
+  {
+    "id": "town_stability_shift",
+    "title": "🏘️ 城鎮穩定度波動",
+    "effects": {"town_stability": 0},
+    "tags": ["town", "stability"]
+  }
+]
